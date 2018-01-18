@@ -1,0 +1,8 @@
+.storyimage {
+    width: 100%;
+}
+
+#engadget, #recode, #nextWeb {
+    border-style: none;
+    margin: 0px 30px;
+}
